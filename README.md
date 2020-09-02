@@ -10,9 +10,10 @@ I am a Full Stack programmer &hearts;, working in web enviroment.
 
 ### Contact me ###
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/erickgato)](https://github.com/erickgato)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=din.com/in/erick-de-souza-gato-178971190/)](din.com/in/erick-de-souza-gato-178971190/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/erick-de-souza-gato-178971190/)](https://www.linkedin.com/in/erick-de-souza-gato-178971190/)
 [![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5541985148523&text=Hello!)](https://api.whatsapp.com/send?phone=5541985148523&text=Hello!)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:itsbk0703@gmail.com)](mailto:itsbk0703@gmail.com)
+
 
 ### Languages and Tools
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
