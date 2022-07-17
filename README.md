@@ -2,7 +2,7 @@
   Welcome </h2>
 <p>
 I'm Erick and i love to know how to programing better solutions!
-I am a Full Stack programmer &hearts;, working in web enviroment.
+I am a Full Stack programmer &hearts;, focused in backend development.
 </p>
 
 
